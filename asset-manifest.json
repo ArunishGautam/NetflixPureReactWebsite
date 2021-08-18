@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NetflixPureReactWebsite/static/css/main.513c4ed4.chunk.css",
+    "main.js": "/NetflixPureReactWebsite/static/js/main.6f38f0d5.chunk.js",
+    "main.js.map": "/NetflixPureReactWebsite/static/js/main.6f38f0d5.chunk.js.map",
+    "runtime-main.js": "/NetflixPureReactWebsite/static/js/runtime-main.df70e30b.js",
+    "runtime-main.js.map": "/NetflixPureReactWebsite/static/js/runtime-main.df70e30b.js.map",
+    "static/js/2.cc4a23f8.chunk.js": "/NetflixPureReactWebsite/static/js/2.cc4a23f8.chunk.js",
+    "static/js/2.cc4a23f8.chunk.js.map": "/NetflixPureReactWebsite/static/js/2.cc4a23f8.chunk.js.map",
+    "static/js/3.19c627bb.chunk.js": "/NetflixPureReactWebsite/static/js/3.19c627bb.chunk.js",
+    "static/js/3.19c627bb.chunk.js.map": "/NetflixPureReactWebsite/static/js/3.19c627bb.chunk.js.map",
+    "index.html": "/NetflixPureReactWebsite/index.html",
+    "static/css/main.513c4ed4.chunk.css.map": "/NetflixPureReactWebsite/static/css/main.513c4ed4.chunk.css.map",
+    "static/js/2.cc4a23f8.chunk.js.LICENSE.txt": "/NetflixPureReactWebsite/static/js/2.cc4a23f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NetflixPureReactWebsite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df70e30b.js",
+    "static/js/2.cc4a23f8.chunk.js",
+    "static/css/main.513c4ed4.chunk.css",
+    "static/js/main.6f38f0d5.chunk.js"
+  ]
+}
